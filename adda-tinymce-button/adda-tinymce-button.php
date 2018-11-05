@@ -15,7 +15,7 @@ Author URI: https://www.linkedin.com/in/illia-kuzoma-04b0a8a2
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) exit;
 
-if ( ! class_exists( 'Adda_Tinymce_Button' )):
+if ( ! class_exists( 'Adda_Tinymce_Button' ) ):
 class Adda_Tinymce_Button {
 
 	public function __construct() {

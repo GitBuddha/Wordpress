@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Adda TinyMCE Buttons
-Plugin URI: https://github.com/GitBuddha/Wordpress/tree/master/adda-tinymce-button
+Plugin URI: https://github.com/GitBuddha/Wordpress-TinyMCE-Plugins/tree/master/adda-tinymce-button
 Description: Example of adding custom TinyMCE button to WYSIWYG editor
 Author: Illia Kuzoma
 Version: 1.0

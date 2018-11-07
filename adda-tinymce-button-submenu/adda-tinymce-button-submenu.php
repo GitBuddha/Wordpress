@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Adda TinyMCE Button Submenu
-Plugin URI: https://github.com/GitBuddha/Wordpress/tree/master/adda-tinymce-button-submenu
+Plugin URI: https://github.com/GitBuddha/Wordpress-TinyMCE-Plugins/tree/master/adda-tinymce-button-submenu
 Description: Example of adding custom TinyMCE submenu button to WYSIWYG editor
 Author: Illia Kuzoma
 Version: 1.1
